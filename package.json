@@ -1,0 +1,23 @@
+{
+  "name": "esbuild-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "esbuild",
+    "react"
+  ],
+  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedsamara/esbuild-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohamedsamara/esbuild-react/issues"
+  },
+  "homepage": "https://github.com/mohamedsamara/esbuild-react#readme"
+}
