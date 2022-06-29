@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <h1>Hello App!</h1>;
+  return <h1 style={{ textAlign: "center" }}>ESBuild React Example!</h1>;
 };
 
 export default App;
