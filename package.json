@@ -1,7 +1,7 @@
 {
   "name": "esbuild-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "ESBuild React",
   "main": "index.js",
   "scripts": {
     "build": "node build.js"
