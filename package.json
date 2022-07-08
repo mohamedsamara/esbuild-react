@@ -4,7 +4,7 @@
   "description": "ESBuild React",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node esbuild.config.js"
   },
   "keywords": [
     "esbuild",
